@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "runem.lit-plugin",
+        "lit.lit-snippets",
+        "bierner.lit-html"        
+    ]
+}
